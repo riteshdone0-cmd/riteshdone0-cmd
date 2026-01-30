@@ -1,48 +1,62 @@
-## Hi there  I'm Ritesh Done
+<h1 align="center">Hi 👋, I'm Ritesh Done</h1>
 
-###  Full Stack Web Developer |Java & Python Desktop Developer | Second Year Student Information technology |
-
----
-
-###  Currently Learning
-- Data Structures & Algorithms  
-- Full Stack Development  
-  
+<h3 align="center">
+Full Stack Web Developer · Java & Python Desktop Developer<br/>
+Second Year Student — Information Technology
+</h3>
 
 ---
 
+<table>
+<tr>
+<td width="100%" valign="top">
 
-###  Connect with me
+## 👨‍💻 More About Me
+I am a passionate developer with a strong interest in building complete end-to-end applications.  
+I enjoy working on backend logic as much as crafting clean user interfaces, and I’m continuously improving my problem-solving skills.
+
+---
+
+## 🔗 Connect With Me
 <p align="left">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/riteshdone/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
- &nbsp;&nbsp;&nbsp;
-  <!-- Email -->
-  <a href="mailto:riteshdone0@gmail.com" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:riteshdone0@gmail.com?subject=GitHub%20Contact&body=Hello%20Ritesh,%0A%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.%0A%0ARegards,">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
 
-
 ---
 
-###  Languages & Tools
+## 🛠 Languages & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=java" /> Java &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" /> JavaScript
 </p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;&nbsp;
+   <img src="https://skillicons.dev/icons?i=express" /> Express.js &nbsp;&nbsp;
+     <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js &nbsp;&nbsp;
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" /> MySQL
+  <img src="https://skillicons.dev/icons?i=github" /> GitHub &nbsp;&nbsp;
+</p>
 
 ---
 
-###  Fun Fact
-> I enjoy turning coffee ☕ into clean, working code 💻
+## ☕ Fun Fact
+> I enjoy turning coffee into clean, working code.
+
+</td>
+</tr>
+</table>
