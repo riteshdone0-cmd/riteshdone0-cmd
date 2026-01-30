@@ -11,7 +11,7 @@ Second Year Student — Information Technology
 <tr>
 <td width="100%" valign="top">
 
-## 👨‍💻 More About Me
+## More About Me
 Motivated by continuous learning and practical software development.<br>
 Focused on Java, Python, Web Development, and Full-Stack technologies with a strong interest in building real-world solutions.
 
@@ -30,9 +30,9 @@ Focused on Java, Python, Web Development, and Full-Stack technologies with a str
 
 ---
 
-## 🛠 Languages & Tools
+##  Languages & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java" /> Java &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;&nbsp;
@@ -40,21 +40,21 @@ Focused on Java, Python, Web Development, and Full-Stack technologies with a str
   <img src="https://skillicons.dev/icons?i=js" /> JavaScript
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;&nbsp;
    <img src="https://skillicons.dev/icons?i=express" /> Express.js &nbsp;&nbsp;
      <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js &nbsp;&nbsp;
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" /> MySQL
   <img src="https://skillicons.dev/icons?i=github" /> GitHub &nbsp;&nbsp;
 </p>
 
 ---
 
-## ☕ Fun Fact
+##  Fun Fact
 > I enjoy turning coffee into clean, working code.
 
 </td>
