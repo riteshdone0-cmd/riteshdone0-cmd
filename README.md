@@ -12,7 +12,7 @@ Second Year Student — Information Technology
 <td width="100%" valign="top">
 
 ## 👨‍💻 More About Me
-Motivated by continuous learning and practical software development.
+Motivated by continuous learning and practical software development.<br>
 Focused on Java, Python, Web Development, and Full-Stack technologies with a strong interest in building real-world solutions.
 
 ---
