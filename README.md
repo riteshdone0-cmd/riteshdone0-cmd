@@ -1,36 +1,48 @@
-## Hi there 👋 I'm Ritesh Done
+## Hi there  I'm Ritesh Done
 
-### 💻 Full Stack Web Developer |Java & Python Desktop Developer | 🎓 Second Year Student Information technology |
+###  Full Stack Web Developer |Java & Python Desktop Developer | Second Year Student Information technology |
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 - Data Structures & Algorithms  
 - Full Stack Development  
   
 
 ---
 
-### 📫 How to reach me
-- 📧 Email: your.email@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/riteshdone/ 
 
----
-
-### 🤝 Connect with me
+###  Connect with me
 <p align="left">
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://www.linkedin.com/in/riteshdone/" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/riteshdone/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+ &nbsp;&nbsp;&nbsp;
+  <!-- Email -->
+  <a href="mailto:riteshdone0@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
 </p>
 
+
 ---
 
-### 🛠 Languages & Tools
+###  Languages & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,mysql,github,,python" />
+  <img src="https://skillicons.dev/icons?i=java" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
+
 ---
 
-### ⚡ Fun Fact
+###  Fun Fact
 > I enjoy turning coffee ☕ into clean, working code 💻
