@@ -12,8 +12,8 @@ Second Year Student — Information Technology
 <td width="100%" valign="top">
 
 ## 👨‍💻 More About Me
-I am a passionate developer with a strong interest in building complete end-to-end applications.  
-I enjoy working on backend logic as much as crafting clean user interfaces, and I’m continuously improving my problem-solving skills.
+Motivated by continuous learning and practical software development.
+Focused on Java, Python, Web Development, and Full-Stack technologies with a strong interest in building real-world solutions.
 
 ---
 
