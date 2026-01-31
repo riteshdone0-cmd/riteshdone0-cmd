@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-ffb86b?style=for-the-badge&logo=mapbox" alt="location"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20collab-00c2a8?style=for-the-badge" alt="open to collab"/>
-  <img src="https://img.shields.io/badge/Email-aryand5492%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail" alt="email"/>
+  <img src="https://img.shields.io/badge/Email-riteshdone0%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail" alt="email"/>
 </p>
 
 
@@ -32,50 +32,33 @@
 ###
 ---
 
-## Tech stack
-**Languages:**  Java · Python · JavaScript · PHP · SQL
-**Frontend:** HTML · CSS · Bootstrap  
-**Mobile:** Android (Kotlin / Java)  
-**Backend & Tools:** Node.js · Express · PHP · MySQL · Git · Linux  
-**Other:** REST APIs · FCM · Deployment (Render / basic cloud infra)
+## Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+**Languages:** Java · Python · JavaScript  
+**Frontend:** HTML · CSS · React  
+**Backend:** Node.js · Express  
+**Database:** MongoDB · MySQL  
+**Tools & Platforms:** Git · GitHub 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" /> Java &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" /> JavaScript
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" /> Express.js &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" /> MySQL &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" /> GitHub
+</p>
 
 
 
@@ -85,7 +68,7 @@
   <a href="https://discord.com/users/875611233716412466" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://img.shields.io/badge/Email-aryand5492%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail" target="_blank">
+  <a href="https://img.shields.io/badge/Email-riteshdone0%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/aryandaphal/" target="_blank">
