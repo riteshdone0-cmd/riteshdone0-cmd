@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋! My name is Ritesh Done and I'm a Information Technology Student</h2>
-<h3 align="center">Computer Engineer • Full Stack Web Developer • Java & Python Desktop Developer • Curious problem solver</h3>
+<h2 align="center">Hi 👋! I'm  Ritesh Done <br> Information Technology Student</h2>
+<h3 align="center">Software Developer • Full Stack Web Developer • Java & Python Desktop Developer • Curious problem solver</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-ffb86b?style=for-the-badge&logo=mapbox" alt="location"/>
@@ -16,7 +16,7 @@
 - Information Technology student at **Savitribai Phule Pune University(SPPU)**.
 - Motivated by continuous learning and practical software development.<br>
 - Focused on Java, Python, Web Development, and Full-Stack technologies with a strong interest in building real-world solutions.  
-- Diploma in Computer Engineering (Govt. Polytechnic Awasari) — **8794%**.   
+- Diploma in Computer Engineering (Govt. Polytechnic Awasari) — **87.94%**.   
 
 
 ---
@@ -26,7 +26,7 @@
 
 ## Experience & highlights
 - Internship: **Software Engineer Trainee** at Globeminds Tehnology Pvt. Ltd. Pune.()  
-- - Developed and managed an **Advanced Java–based desktop application** for cafe order management and automated bill generation, improving operational efficiency by **up to 70%**
+- Developed and managed an **Advanced Java–based desktop application** for cafe order management and automated bill generation, improving operational efficiency by **up to 70%**
 
 
 ###
@@ -40,7 +40,7 @@
 **Database:** MongoDB · MySQL  
 **Tools & Platforms:** Git · GitHub 
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java" /> Java &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;&nbsp;
@@ -48,15 +48,16 @@
   <img src="https://skillicons.dev/icons?i=js" /> JavaScript
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" /> Express.js &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" /> MySQL &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" /> GitHub
 </p>
 
@@ -65,17 +66,17 @@
 ## Contact
 
 <div align="left">
-  <a href="https://discord.com/users/875611233716412466" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <a href="https://img.shields.io/badge/Email-riteshdone0%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/aryandaphal/" target="_blank">
+  <a href="https://www.linkedin.com/in/riteshdone/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://t.me/aryand5492" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <a href="https://x.com/RiteshDone" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="Twitter logo" />
+</a>
+    <a href="https://discord.com/users/875611233716412466" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
