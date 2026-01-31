@@ -82,7 +82,7 @@
 <br clear="both">
 <div align="center">
   
-  ![snake gif](https://github.com/CZACKER/CZACKER/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/riteshdone0-cmd/riteshdone0-cmd/blob/output/github-snake-dark.svg)
   
 </div>
 
