@@ -11,6 +11,8 @@
 ###
 
 ---
+###
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJoajlqb2dkeTd6YTM5M2Vtd3Q1enI5a2N6YnE3cWk4czZpbjI4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"/>
 
 ## About me
 - Information Technology student at **Savitribai Phule Pune University(SPPU)**.
@@ -21,8 +23,6 @@
 
 ---
 
-###
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJoajlqb2dkeTd6YTM5M2Vtd3Q1enI5a2N6YnE3cWk4czZpbjI4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"/>
 
 ## Experience & highlights
 - Internship: **Software Engineer Trainee** at Globeminds Tehnology Pvt. Ltd. Pune.()  
