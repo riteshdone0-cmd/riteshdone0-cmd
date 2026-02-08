@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! I'm  Ritesh Done <br> Information Technology Student</h2>
-<h3 align="center">Software Developer • Full Stack Web Developer • Java & Python Desktop Developer </h3>
+<h3 align="center">Full Stack Web Developer • Java & Python Desktop Developer </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-ffb86b?style=for-the-badge&logo=mapbox" alt="location"/>
