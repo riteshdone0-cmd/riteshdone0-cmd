@@ -25,9 +25,17 @@
 
 
 ## Experience & highlights
-- Internship: **Software Engineer Trainee** at Globeminds Tehnology Pvt. Ltd. Pune.()  
-- Developed and managed an **Advanced Java–based desktop application** for cafe order management and automated bill generation, improving operational efficiency by **up to 70%**
-
+SOFTWARE DEVELOPER TRAINEE – (SNAXLAY HEALTH CON-SNACKS) Pune, MH (Feb 26 - Present)
+<br>• Working on frontend and backend development tasks for Snaxlay web platforms. 
+<br>• Gaining hands-on industry experience in frontend and backend development while supporting
+feature enhancements and system improvements 
+<br>• Collaborating with the technical team on live projects, participating in planning, testing, and deployment
+to deliver scalable web solutions.<br>
+<br>SOFTWARE ENGINEER TRAINEE – (GLOBEMINDS TECHNOLOGIES) Pune, MH (Jun 2024 - july 2024)
+<br>• Contributed to frontend and backend tasks using HTML, CSS, JavaScript, Bootstrap, and PHP. 
+<br>• Developed and managed an advanced Java-based desktop application for cafe order management
+and automated billing. used Git for version control. 
+<br>• Improved operational efficiency by 70% through system automation and optimized application performance.
 
 ###
 ---
