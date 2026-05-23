@@ -25,8 +25,8 @@
 
 
 ## Experience & highlights
-SOFTWARE DEVELOPER TRAINEE – (SNAXLAY HEALTH CON-SNACKS) Pune, MH (Feb 26 - Present)
-<br>• Working on frontend and backend development tasks for Snaxlay web platforms. 
+SOFTWARE DEVELOPER TRAINEE – (SNAXLAY HEALTH CON-SNACKS) Pune, MH (Feb 26 - may 2026)
+<br>• Working on frontend and backend development tasks for Snaxlay.com web platforms. 
 <br>• Gaining hands-on industry experience in frontend and backend development while supporting
 feature enhancements and system improvements 
 <br>• Collaborating with the technical team on live projects, participating in planning, testing, and deployment
